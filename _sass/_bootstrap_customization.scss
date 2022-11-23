@@ -7,7 +7,7 @@
 
 // Variables ===================================================================
 
-$web-font-path: "https://fonts.googleapis.com/css?family=Montserrat" !default;
+$web-font-path: "https://fonts.googleapis.com/css?family=Lato" !default;
 @import url($web-font-path);
 
 // Navbar ======================================================================
@@ -325,4 +325,27 @@ legend {
   h1, h2, h3, h4, h5, h6 {
     color: inherit;
   }
+}
+
+@font-face {
+    font-family: Monster-Regular;
+    src: url("../Monster-Regular.ttf") format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+h1 {
+  font-family: Monster-Regular;
+}
+
+h2 {
+  font-family: Monster-Regular;
+}
+
+h3 {
+  font-family: Monster-Regular;
+}
+
+div {
+    font-family: Lato;
 }
