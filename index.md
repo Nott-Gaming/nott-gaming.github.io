@@ -51,30 +51,48 @@ We design, develop, & market VR videogames. Speak with one of our consultants to
 ### ADRIÁN  <a name=ADRIAN></a>
 
 `Game Programmer, 3D Modeler/Animator`
-
+<center>
 <img src="assets/images/Adri_agent.png" alt="Adrian" width="512" height="512">
+</center>   
+<center>
+<a href="https://krita.org" target="_blank"><img src="assets/images/icon/krita.svg" alt="Krita" width="16" height="16"></a>
+<a href="https://www.adobe.com/es/products/photoshop.html" target="_blank"><img src="assets/images/icon/photoshop.svg" alt="Adobe Photoshop" width="16" height="16"></a>
+<a href="https://www.adobe.com/es/products/premiere.html" target="_blank"><img src="assets/images/icon/premiere.svg" alt="Adobe Premiere" width="16" height="16"></a>
+<a href="https://www.adobe.com/es/products/aftereffects.html" target="_blank"><img src="assets/images/icon/aftereffects.svg" alt="Adobe After Effects" width="16" height="16"></a>
+<a href="https://unity.com" target="_blank"><img src="assets/images/icon/unity.svg" alt="Unity" width="16" height="16"></a>
+<a href="https://www.unrealengine.com" target="_blank"><img src="assets/images/icon/unrealengine.svg" alt="Unreal Engine" width="16" height="16"></a>
+<a href="https://www.autodesk.es/products/maya" target="_blank"><img src="assets/images/icon/maya.svg" alt="Autodesk Maya" width="16" height="16"></a>
+<a href="https://www.blender.org" target="_blank"><img src="assets/images/icon/blender.svg" alt="Blender" width="16" height="16"></a>
+<a href="https://git-scm.com" target="_blank"><img src="assets/images/icon/git.svg" alt="Git" width="16" height="16"></a>
+</center>
+
+<br/>
 
 * Programming since 2017
   * [Videogame Development Portfolio](https://www.artstation.com/adrianroblesabella)
 * Markup/programming languages:
   * HTML
-  * C#
-* Programs:
-  * Photoshop
-  * Premiere
-  * After Effects
-  * Unity 3D
-  * Unreal Engine
-  * Maya
-  * Blender
-  * Git
-  
+  * C#  
 
 ### AXEL <a name=AXEL></a>
 
 `Magician, Musician, 3D Animator, Games and Interactive Environments & Network Computer Systems Administrator`
 
 <img src="assets/images/Axel_agent.png" alt="Axel" width="512" height="512">
+
+<a href="https://www.adobe.com/es/products/photoshop.html" target="_blank"><img src="assets/images/icon/photoshop.svg" alt="Adobe Photoshop" width="16" height="16"></a>
+<a href="https://www.adobe.com/es/products/premiere.html" target="_blank"><img src="assets/images/icon/premiere.svg" alt="Adobe Premiere" width="16" height="16"></a>
+<a href="https://www.adobe.com/es/products/aftereffects.html" target="_blank"><img src="assets/images/icon/aftereffects.svg" alt="Adobe After Effects" width="16" height="16"></a>
+<a href="https://unity.com" target="_blank"><img src="assets/images/icon/unity.svg" alt="Unity" width="16" height="16"></a>
+<a href="https://www.unrealengine.com" target="_blank"><img src="assets/images/icon/unrealengine.svg" alt="Unreal Engine" width="16" height="16"></a>
+<a href="hhttps://www.autodesk.es/products/3ds-max" target="_blank"><img src="assets/images/icon/3dsmax.svg" alt="Autodesk 3ds Max" width="16" height="16"></a>
+<a href="https://www.ableton.com" target="_blank"><img src="assets/images/icon/abletonlive.svg" alt="Ableton Live" width="16" height="16"></a>
+<a href="https://www.audacityteam.org/" target="_blank"><img src="assets/images/icon/audacity.svg" alt="Audacity" width="16" height="16"></a>
+<a href="https://obsproject.com" target="_blank"><img src="assets/images/icon/obs.svg" alt="OBS Studio" width="16" height="16"></a>
+<a href="https://shotcut.org/" target="_blank"><img src="assets/images/icon/shotcut.svg" alt="Shotcut" width="16" height="16"></a>
+<a href="https://www.blender.org" target="_blank"><img src="assets/images/icon/blender.svg" alt="Blender" width="16" height="16"></a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="assets/images/icon/pycharm.svg" alt="pyCharm" width="16" height="16"></a>
+<a href="https://git-scm.com" target="_blank"><img src="assets/images/icon/git.svg" alt="Git" width="16" height="16"></a>
 
 * Programming since 2019
   * [Music Artist Portfolio](https://afaces.tk)
@@ -87,31 +105,26 @@ We design, develop, & market VR videogames. Speak with one of our consultants to
   * Markdown
   * CSS
   * Javascript
+  * Jekyll
   * Python
   * PHP
   * Bash
   * Powershell
-* Programs:
-  * Photoshop
-  * Premiere
-  * After Effects
-  * 3D Studio Max
-  * Unity 3D
-  * Unreal Engine
-  * Ableton Live
-  * Audacity
-  * OBS
-  * Shotcut
-  * Blender
-  * pyCharm
-  * Git
-
 
 ### DANIEL<a name=DANIEL></a>
 
 `Multiplatform Applications and Videogames Programmer`
 
 <img src="assets/images/Daniel_agent.png" alt="Daniel" width="512" height="512">
+
+<a href="https://krita.org" target="_blank"><img src="assets/images/icon/krita.svg" alt="Krita" width="16" height="16"></a>
+<a href="https://www.unrealengine.com" target="_blank"><img src="assets/images/icon/unrealengine.svg" alt="Unreal Engine" width="16" height="16"></a>
+<a href="https://obsproject.com" target="_blank"><img src="assets/images/icon/obs.svg" alt="OBS Studio" width="16" height="16"></a>
+<a href="https://www.eclipse.org" target="_blank"><img src="assets/images/icon/eclipse.svg" alt="Eclipse" width="16" height="16"></a>
+<a href="https://netbeans.apache.org" target="_blank"><img src="assets/images/icon/netbeans.svg" alt="Apache NetBeans" width="16" height="16"></a>
+<a href="https://developer.android.com/studio" target="_blank"><img src="assets/images/icon/androidstudio.svg" alt="Android Studio" width="16" height="16"></a>
+<a href="https://www.blender.org" target="_blank"><img src="assets/images/icon/blender.svg" alt="Blender" width="16" height="16"></a>
+<a href="https://git-scm.com" target="_blank"><img src="assets/images/icon/git.svg" alt="Git" width="16" height="16"></a>
 
 * Programming since 2020
   * [GitHub profile](https://github.com/danniellz)
@@ -120,15 +133,6 @@ We design, develop, & market VR videogames. Speak with one of our consultants to
   * CSS
   * Java
   * SQL
-* Programs:
-  * Krita
-  * Unreal Engine
-  * OBS
-  * Eclipse
-  * NetBeans
-  * Android Studio
-  * Blender
-  * Git
 
 ### JONATHAN <a name=JONATHAN></a>
 
