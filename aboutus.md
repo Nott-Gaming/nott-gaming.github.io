@@ -193,7 +193,7 @@
 <br/>
 <br/>
 
-### VICTOR <a name=VICTOR></a>
+### VÍCTOR <a name=VICTOR></a>
 
 `3D modeler, Animator & Texture Artist and Amateur Cartoonist`
 
