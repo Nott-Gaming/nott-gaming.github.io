@@ -10,6 +10,8 @@
 $web-font-path: "https://fonts.googleapis.com/css?family=Lato" !default;
 @import url($web-font-path);
 
+span{font-size:1.25rem;}
+
 // Navbar ======================================================================
 
 .navbar {

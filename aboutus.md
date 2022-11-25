@@ -11,7 +11,7 @@
 
 `Game Programmer, 3D Modeler/Animator`
 <center>
-<img src="assets/images/Adri_agent.png" alt="Adrian" width="512" height="512">
+<img src="assets/images/Adri_agent.png" alt="Adrian" width="304" height="304">
 </center>   
 <center>
 <a href="https://krita.org" target="_blank"><img src="assets/images/icon/krita.svg" alt="Krita" width="16" height="16"></a>
@@ -41,7 +41,7 @@
 `3D Animator, Games and Interactive Environments & Network Computer Systems Administrator`
 
 <center>
-<img src="assets/images/Axel_agent.png" alt="Axel" width="512" height="512">
+<img src="assets/images/Axel_agent.png" alt="Axel" width="304" height="304">
 </center>   
 <center>
 <a href="https://www.adobe.com/es/products/photoshop.html" target="_blank"><img src="assets/images/icon/photoshop.svg" alt="Adobe Photoshop" width="16" height="16"></a>
@@ -84,7 +84,7 @@
 `Multiplatform Applications and Videogames Programmer`
 
 <center>
-<img src="assets/images/Daniel_agent.png" alt="Daniel" width="512" height="512">
+<img src="assets/images/Daniel_agent.png" alt="Daniel" width="304" height="304">
 </center>   
 <center>
 <a href="https://krita.org" target="_blank"><img src="assets/images/icon/krita.svg" alt="Krita" width="16" height="16"></a>
@@ -113,7 +113,7 @@
 `Game Programmer, 3D Modeler/Animator & Junior Programmer`
 
 <center>
-<img src="assets/images/Jonathan_agent.png" alt="Jonathan" width="512" height="512">
+<img src="assets/images/Jonathan_agent.png" alt="Jonathan" width="304" height="304">
 </center>   
 <center>
 <a href="https://www.unrealengine.com" target="_blank"><img src="assets/images/icon/unrealengine.svg" alt="Unreal Engine" width="16" height="16"></a>
@@ -139,7 +139,7 @@
 `Multiplatform Applications and Videogames Programmer`
 
 <center>
-<img src="assets/images/Jorge_agent.png" alt="Jorge" width="512" height="512">
+<img src="assets/images/Jorge_agent.png" alt="Jorge" width="304" height="304">
 </center>   
 <center>
 <a href="https://www.gimp.org" target="_blank"><img src="assets/images/icon/gimp.svg" alt="Gimp" width="16" height="16"></a>
@@ -173,7 +173,7 @@
 `Network Computers Systems Administrator`
 
 <center>
-<img src="assets/images/Kevin_agent.png" alt="Kevin" width="512" height="512">
+<img src="assets/images/Kevin_agent.png" alt="Kevin" width="304" height="304">
 </center>
 <center>
 <a href="https://www.adobe.com/es/products/photoshop.html" target="_blank"><img src="assets/images/icon/photoshop.svg" alt="Adobe Photoshop" width="16" height="16"></a>
@@ -198,7 +198,7 @@
 `3D modeler, Animator & Texture Artist and Amateur Cartoonist`
 
 <center>
-<img src="assets/images/Victor_agent.png" alt="Victor" width="512" height="512">
+<img src="assets/images/Victor_agent.png" alt="Victor" width="304" height="304">
 </center>
 <center>
 <a href="https://www.adobe.com/es/products/photoshop.html" target="_blank"><img src="assets/images/icon/photoshop.svg" alt="Adobe Photoshop" width="16" height="16"></a>
