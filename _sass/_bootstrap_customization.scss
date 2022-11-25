@@ -14,7 +14,48 @@ $web-font-path: "https://fonts.googleapis.com/css?family=Lato" !default;
 
 .navbar {
   font-family: $headings-font-family;
+  padding: 0.5rem 0.25rem;
+  flex-wrap: inherit;
 }
+
+.navbar-nav {
+  flex-direction: column-reverse;
+  display: flex;
+}
+
+.navbar-toggler {
+  padding: 0px 0px !important;
+}
+
+.navbar-toggle .icon-bar {
+    width: 14px !important;
+    height: 1px;
+}
+
+.navbar-brand {
+    display: block;
+    padding-left: 180px;
+}
+
+/* Style the navbar */
+
+/* Page content */
+.content {
+  padding: 2px;
+}
+
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 0%;
+  width: 100%;
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content {
+  padding-top: 15px;
+}
+
 
 .bg-dark {
   background-color: $secondary !important;
@@ -22,6 +63,15 @@ $web-font-path: "https://fonts.googleapis.com/css?family=Lato" !default;
 
 .border-dark {
   border-color: $secondary !important;
+}
+
+.nav-item {
+  margin-right: 0.25rem;
+}
+
+.nav-link {
+
+  display: revert;
 }
 
 // Buttons =====================================================================
@@ -348,4 +398,30 @@ h3 {
 
 div {
     font-family: Lato;
+}
+
+banner {
+    background-size: cover;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+}
+
+.flex-child:first-child {
+    margin-right: -350px;
+}
+
+:target {
+  display: block;
+  position: relative;
+  top: -120px;
+  visibility: hidden;
 }
