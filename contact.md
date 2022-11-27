@@ -13,6 +13,4 @@
 <br/>
 <br/>
 
-<h3> You can follow us in our twitter account!</h3>
-
-[<img src="https://nott-gaming.github.io/assets/images/icon/twitter.svg" alt="Twitter">](https://twitter.com/thenottgaming)
+<h3> <a href="https://twitter.com/thenottgaming"><img src="https://nott-gaming.github.io/assets/images/icon/twitter.svg" alt="Twitter">⬅ Click Here To Follow Our Twitter Account!</a></h3>
