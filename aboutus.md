@@ -34,7 +34,6 @@
   * C#  
 
 <br/>
-<br/>
 
 ### AXEL <a name=AXEL></a>
 
@@ -77,7 +76,6 @@
   * Powershell
 
 <br/>
-<br/>
 
 ### DANIEL<a name=DANIEL></a>
 
@@ -106,7 +104,6 @@
   * SQL
 
 <br/>
-<br/>
 
 ### JONATHAN <a name=JONATHAN></a>
 
@@ -131,7 +128,6 @@
   * Odoo
   * CSS
 
-<br/>
 <br/>
 
 ### JORGE <a name=JORGE></a>
@@ -166,7 +162,6 @@
   * XML
 
 <br/>
-<br/>
 
 ### KEVIN <a name=KEVIN></a>
 
@@ -190,7 +185,6 @@
   * CSS
   * XML
 
-<br/>
 <br/>
 
 ### VÍCTOR <a name=VICTOR></a>
