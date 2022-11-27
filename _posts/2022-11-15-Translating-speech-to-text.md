@@ -15,7 +15,14 @@ choco install ffmpeg
 ```
 
 #### Install python dependencies
+* Linux
 ```bash
+pip3 install git+https://github.com/openai/whisper.git jiwer
+pip3 install langdetect
+pip3 install googletrans==4.0.0-rc1
+```
+* Windows (chocolatey)
+```powershell
 pip install git+https://github.com/openai/whisper.git jiwer
 pip install langdetect
 pip install googletrans==4.0.0-rc1
