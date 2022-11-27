@@ -5,7 +5,7 @@ layout: page
 <h4 align="right">
 <a href="https://github.com/Nott-Gaming">
 <img src="https://img.shields.io/github/followers/Nott-Gaming?style=social" alt="Followers">
-</a><a href="https://twitter.com/thenottgaming"><img src="https://nott-gaming.github.io/assets/images/icon/twitter.svg" alt="Twitter"></a>
+</a>
 </h4>
 
 <div class="flex-container">

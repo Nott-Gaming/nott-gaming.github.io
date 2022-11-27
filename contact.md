@@ -10,5 +10,5 @@
     </form>
 </div>
 
-## You can follow us in our twitter account!
+#### You can follow us in our twitter account!
 [<img src="https://nott-gaming.github.io/assets/images/icon/twitter.svg" alt="Twitter">](https://twitter.com/thenottgaming)
