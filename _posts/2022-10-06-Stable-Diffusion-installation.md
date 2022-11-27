@@ -1,6 +1,7 @@
 ## Stable Diffusion Installation
 
 Author: [<img src="https://nott-gaming.github.io/assets/images/Axel_agent.png" alt="Axel" width="16" height="16">](https://nott-gaming.github.io/aboutus#AXEL) [Axel Fernández Curros](https://nott-gaming.github.io/aboutus#AXEL)
+
 Guide to set up Stable Diffusion.
 We assume that you have followed the steps in the previous post and that you have the GNU/Linux development environment system ready.
 

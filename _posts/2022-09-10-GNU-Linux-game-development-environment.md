@@ -1,6 +1,7 @@
 ## GNU/Linux game development environment
 
 Author: [<img src="https://nott-gaming.github.io/assets/images/Axel_agent.png" alt="Axel" width="16" height="16">](https://nott-gaming.github.io/aboutus#AXEL) [Axel Fernández Curros](https://nott-gaming.github.io/aboutus#AXEL)
+
 Guide to set up an Ubuntu workstation for videogame development.
 #### Download [Ubuntu .iso](https://ubuntu.com/download/desktop){:target="_blank"}
 You have two options, to install it virtually or in bare metal, chose what suits your best interests.

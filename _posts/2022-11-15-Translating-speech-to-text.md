@@ -1,6 +1,7 @@
 ## Translating speech to text
 
 Author: [<img src="https://nott-gaming.github.io/assets/images/Axel_agent.png" alt="Axel" width="16" height="16">](https://nott-gaming.github.io/aboutus#AXEL) [Axel Fernández Curros](https://nott-gaming.github.io/aboutus#AXEL)
+
 Guide to translate speech to text and translate it to any language.
 With the following script we will be able to get text from an audio in any language and write it to English as well as translating the same text to any language.
 
