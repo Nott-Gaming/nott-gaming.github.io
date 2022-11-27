@@ -9,7 +9,7 @@
 
 ### ADRIÁN  <a name=ADRIAN></a>
 
-`Game Programmer, 3D Modeler/Animator`
+`Game Programmer, 3D Modeler and Animator`
 <center>
 <img src="assets/images/Adri_agent.png" alt="Adrian" width="304" height="304">
 </center>   
