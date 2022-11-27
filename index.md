@@ -6,6 +6,7 @@ layout: page
 <a href="https://github.com/Nott-Gaming">
 <img src="https://img.shields.io/github/followers/Nott-Gaming?style=social" alt="Followers">
 </a>
+<a href="https://twitter.com/thenottgaming?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @thenottgaming</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </h4>
 
 <div class="flex-container">
