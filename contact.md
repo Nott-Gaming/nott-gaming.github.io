@@ -12,5 +12,3 @@
 
 <br/>
 <br/>
-
-<h3> <a href="https://twitter.com/thenottgaming"><img src="https://nott-gaming.github.io/assets/images/icon/twitter.svg" alt="Twitter">⬅ Click Here To Navigate To Our Twitter Account!</a></h3>
