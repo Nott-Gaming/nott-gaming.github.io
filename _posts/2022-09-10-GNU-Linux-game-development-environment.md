@@ -57,6 +57,11 @@ sudo customizer-install -v -o latex dia ghostwriter
 customizer-install -v -o overleaf wikipedia forms
 ```
 
+#### Install Rust Language
+```bash
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
+
 #### Install Unreal Engine 5
 [External link](https://bytexd.com/how-to-setup-and-run-unreal-engine-5-on-ubuntu){:target="_blank"}
 
