@@ -4,9 +4,6 @@ Author: [<img src="https://nott-gaming.github.io/assets/images/Axel_agent.png" a
 
 Guide to use up a bot to automate Twitter profile.
 
-##
-
-
 #### Install python dependencies
 * Linux
 ```bash
@@ -27,13 +24,13 @@ git clone https://github.com/Axlfc/UE5-python
 cd UE5-python/Content/Python/twitBot
 ```
 
-#### Configure .env file with your API Keys from developer.twitter.com
+#### Configure .env file 
+With your API Keys from developer.twitter.com
 
 #### Run the python script
 * Linux
 ```bash
 python3 twitBot.py "twit content"
-
 ```
 * Windows
 ```windows
