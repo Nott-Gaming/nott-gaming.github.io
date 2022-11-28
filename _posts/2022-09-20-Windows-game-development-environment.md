@@ -44,6 +44,8 @@ python
 ```
 
 #### Install Unreal Engine
+Install Windows .NET Core 3.1 for being able to export games for Windows.
+[External Link](https://dotnet.microsoft.com/en-us/download/dotnet/3.1)
 ```powershell
 winget install -e --id "EpicGames.EpicGamesLauncher"
 ```
