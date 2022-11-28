@@ -7,11 +7,13 @@ Guide to use up a bot to automate Twitter profile.
 #### Install python dependencies
 * Linux
 ```bash
-pip3 install twint tweepy python-dotenv
+pip3 install --upgrade --user git+https://github.com/MarcosFP97/twint.git@origin/master#egg=twint
+pip3 install tweepy python-dotenv
 ```
 * Windows (chocolatey)
 ```powershell
-pip install twint tweepy python-dotenv
+pip install --upgrade --user git+https://github.com/MarcosFP97/twint.git@origin/master#egg=twint
+pip install tweepy python-dotenv
 ```
 
 #### Clone repository
