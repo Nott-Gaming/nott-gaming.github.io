@@ -17,6 +17,7 @@ Install Visual Studio
 
 Install MSVS v14x VS 201x C++ Build Tools also to prevent possible errors in the future.
 [External link](https://visualstudio.microsoft.com/es/visual-cpp-build-tools)
+[External link](https://go.microsoft.com/fwlink/?LinkId=691126)
 <br/>
 
 #### Download and Install MinGW and add MinGW Path variable to Windows Path
@@ -28,6 +29,10 @@ Be sure to have installed gcc and g++ compilers for developing purposes.
 #### With gcc and g++ installed
 We are able to write and develop programs written in C and C++ and compile them successfully.
 
+#### Install Python3
+```powershell
+winget install -e --id "Python.Python.3.11"
+```
 #### Install Unreal Engine
 ```powershell
 winget install -e --id "EpicGames.EpicGamesLauncher"
