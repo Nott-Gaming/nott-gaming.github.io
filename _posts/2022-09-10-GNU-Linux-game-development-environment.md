@@ -12,7 +12,7 @@ Once the system is installed in your computer, fire up the terminal (Ctrl + 'T')
 
 #### Install Linux-Auto-Customizer:
 ```bash
-sudo apt-get install -y git
+sudo apt-get install -y git curl wget
 git clone https://github.com/AleixMT/Linux-Auto-Customizer 
 git checkout develop
 sudo bash Linux-Auto-Customizer/src/core/install.sh -v -o customizer 

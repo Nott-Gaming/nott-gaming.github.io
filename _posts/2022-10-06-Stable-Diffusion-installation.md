@@ -8,7 +8,7 @@ We assume that you have followed the steps in the previous post and that you hav
 ```bash
 cd Linux-Auto-Customizer
 git checkout stablediffusion_feature
-customizer-install -v -o stableDiffusion
+src/core/install.sh -v -o stableDiffusion
 ```
 * Using Customizer's Stable Diffusion functions from command line:
 ```bash
