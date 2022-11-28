@@ -32,8 +32,10 @@ We are able to write and develop programs written in C and C++ and compile them 
 #### Instal Rust Language
 [External Link](https://www.rust-lang.org/learn/get-started)
 Add Rust folder to Windows path's variables:
-My user rust installation path location as default: 'C:\Users\AxelFC\.cargo\bin'
-
+My user rust installation path location as default: 
+```powershell
+C:\Users\AxelFC\.cargo\bin
+```
 #### Install Python3
 ```powershell
 winget install -e --id "Python.Python.3.8"
