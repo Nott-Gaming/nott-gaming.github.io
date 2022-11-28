@@ -40,7 +40,7 @@ winget install -e --id "Python.Python.3.8"
 ```
 Add Python to path's variables. Check if you can call it too from terminal.
 ```powershell
-python
+python --version
 ```
 
 #### Install Unreal Engine
