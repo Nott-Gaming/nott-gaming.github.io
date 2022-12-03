@@ -14,7 +14,8 @@ If is not, do install it, is super useful.
 #### Install Microsoft Visual Studio and C & C++ Build Tools
 Install Visual Studio
 [External Link](https://learn.microsoft.com/en-us/cpp/build/vscpp-step-0-installation?view=msvc-170)
-
+Install Build Tools
+[External Link](https://visualstudio.microsoft.com/es/visual-cpp-build-tools/)
 <br/>
 
 #### Download and Install MinGW and add MinGW Path variable to Windows Path (optional but recommended)
