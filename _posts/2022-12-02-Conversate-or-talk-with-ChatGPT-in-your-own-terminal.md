@@ -12,11 +12,11 @@ sudo apt-get install -y python3 git
 #### Install Python dependencies
 * Linux
 ```bash
-pip3 install openai dotenv
+pip3 install openai python-dotenv transformers colorama
 ```
 * Windows
 ```powershell
-pip install openai dotenv
+pip install openai python-dotenv transformers colorama
 ```
 
 #### Clone git repository
@@ -54,11 +54,11 @@ sudo apt-get install -y build-essential portaudio19-dev
 #### Install the required Python dependencies
 * Linux
 ```bash
-pip3 install gitpython gdown pathlib setuptools pyaudio soundfile pathlib numpy librosa SpeechRecognition
+pip3 install git+https://github.com/openai/whisper.git jiwer gitpython gdown pathlib setuptools pyaudio soundfile pathlib numpy librosa SpeechRecognition langdetect googletrans==4.0.0-rc1
 ```
 * Windows
 ```powershell
-pip install gitpython gdown pathlib setuptools pyaudio soundfile pathlib numpy librosa SpeechRecognition
+pip install git+https://github.com/openai/whisper.git jiwer gitpython gdown pathlib setuptools pyaudio soundfile pathlib numpy librosa SpeechRecognition langdetect googletrans==4.0.0-rc1
 ```
 
 Run talk.py to begin to talk with the AI locally on your terminal, the voice will process and then played.
