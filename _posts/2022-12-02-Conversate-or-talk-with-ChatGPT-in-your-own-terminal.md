@@ -47,7 +47,7 @@ If you want the AI to talk to you using a concrete voice, you should try running
 #### Install the required Python dependencies
 * Linux
 ```bash
-pip3 install gitpython gdown pathlib re subprocess pkg_resources soundfile pathlib numpy librosa SpeechRecognition
+pip3 install gitpython gdown pathlib setuptools pyaudio soundfile pathlib numpy librosa SpeechRecognition
 ```
 * Windows
 ```powershell
