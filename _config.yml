@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Videogame producers
+title: Nótt Gaming | Videogame producers
 email: "thenottgames@gmail.com"
 #linkedin_username: "linkedinuser"
 description: >- # this means to ignore newlines until "baseurl:"
   Videogame company
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
+twitter_username: thenottgaming
 github_username:  Nottgaming
 
 repository: "Nott-Gaming/nott-gaming.github.io"

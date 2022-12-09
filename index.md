@@ -14,7 +14,7 @@ layout: page
   </div>
   <div class="flex-child">
     <br/><br/>
-    We design, develop, & market VR videogames. Speak with one of our consultants to get a quote on your project today.
+    We design, develop & market VR videogames. Speak with one of our consultants to get a quote on your project today.
   </div>
 </div>
 
