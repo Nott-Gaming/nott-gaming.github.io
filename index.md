@@ -26,6 +26,8 @@ layout: page
 
 <br/>
 
+![Animated logo](assets/images/nott.gif)
+
 ## <center>Our team members</center>
 
 | <center>ADRIÁN</center>                                                  | <center>AXEL</center>                                                 | <center>DANIEL</center> | <center>JONATHAN</center> | <center>JORGE</center> | <center>KEVIN</center> | <center>VÍCTOR</center>                                                   |
