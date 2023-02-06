@@ -9,6 +9,10 @@
 
 <br/>
 
+[![Mental Breakdown VR Announcement Trailer](http://img.youtube.com/vi/TTFj3lOalsg/0.jpg)](http://www.youtube.com/watch?v=TTFj3lOalsg "Mental Breakdown VR Announcement Trailer")
+
+<br/>
+
 ## Music
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1379434693&color=%2374646c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_artwork=false&show_teaser=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/afaces" title="Afaces" target="_blank" style="color: #cccccc; text-decoration: none;">Afaces</a> · <a href="https://soundcloud.com/afaces/evening-menu" title="Evening Menu" target="_blank" style="color: #cccccc; text-decoration: none;">Evening Menu</a></div>
